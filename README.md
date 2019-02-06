@@ -75,3 +75,39 @@ git add wiki.words ; git commit -a -m "add file" ; git push
 
 
 ```
+
+## Commands from the 6th February
+
+```
+Set up VirtualBox again (sorry!) 
+--
+
+The disk image is found in:
+
+C:\Program Files\Oracle\VirtualBox
+
+(It's the .vdi file)
+
+Remember: Ubuntu (32bit)
+
+Memory 4Gb minimum (4096Mb)
+
+Name of the machine doesn't matter.
+
+----------
+Commands:
+
+ls = list files 
+
+cd = change directory (folder)
+
+    cd SP19-LING-245 (just type SP and press 'TAB')
+
+pwd = present working directory (where are you?)
+
+sed = stream editor
+
+----------
+
+sed 's/[^A-Za-z]\+/\n/g' < wiki.txt > wiki.words
+```
