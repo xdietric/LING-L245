@@ -111,3 +111,27 @@ sed = stream editor
 
 sed 's/[^A-Za-z]\+/\n/g' < wiki.txt > wiki.words
 ```
+
+## Commands from the 11th February
+
+```
+In 'Exercises with sed':
+
+The two bullet points should be uploaded as two files:
+
+* initial-consonants.txt
+* final-consonants.txt
+
+You should be able to use the commands you've been 
+using to produce these files.
+
+(I'll fix the page after class).
+
+TIPS:
+ 
+* tokenise by word: use sed
+ -- tokenise in this context means "put one word on one line"
+* delete the vowel and rest of the word: use sed
+* count: use sort, uniq, sort
+
+```
