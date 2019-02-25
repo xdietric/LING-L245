@@ -134,4 +134,37 @@ TIPS:
 * delete the vowel and rest of the word: use sed
 * count: use sort, uniq, sort
 
+
+```
+
+## Comments from 25th February
+
+```
+Experiment (in pairs):
+
+Maya script, also known as Maya glyphs, was the writing system of the Maya civilization of Mesoamerica and is the only Mesoamerican writing system that has been substantially deciphered. The earliest inscriptions found which are identifiably Maya date to the 3rd century BCE in San Bartolo, Guatemala.
+
+1) type this on your phone where you have predictive text / autocorrect (e.g. in a text message),  get your pair to time you.
+2) turn off predictive text and type and time it again. 
+3) write number of seconds on the board
+
+--
+
+How much time do you think it takes to get predictive text on a phone?
+
+Explain process. -- What is needed?
+
+--
+
+Brainstorm (in pairs):
+- What is spelling? 
+- How does spelling work in languages you know?
+  - Who defines what is "correct" spelling?
+  - Is there variation in what is considered "correct"?
+  - How long does it take to learn to write?
+- Do you use any forms that you would consider to be "non-standard"?
+  - What forms?
+  - Why do you use them?
+  - Where do you use them? (speech, text, formal documents, ...)
+- Who is disadvantaged by not having access to spellcheckers/predictive text?
 ```
